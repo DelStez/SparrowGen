@@ -55,6 +55,7 @@
         <Reference Include="System.Xml" />
     </ItemGroup>
     <ItemGroup>
+        <Compile Include="ANSI_X917.cs" />
         <Compile Include="AppColors.cs" />
         <Compile Include="BigIntegerHelper.cs" />
         <Compile Include="BigPoint.cs" />
